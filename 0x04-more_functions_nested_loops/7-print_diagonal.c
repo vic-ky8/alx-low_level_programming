@@ -3,7 +3,6 @@
  * print_diagonal -prints a diagonal line using char \
  * @n: number of times the char \ should be printed
  */
-
 void print_diagonal(int n)
 {
 	if (n <= 0)
@@ -26,4 +25,3 @@ void print_diagonal(int n)
 		}
 	}
 }
-		
